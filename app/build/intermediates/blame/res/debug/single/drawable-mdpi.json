@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\met_ic_clear.png",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\ee490fead0445c62bd4b5019fc7cb80b43b2beab\\output\\res\\drawable-mdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\met_ic_clear.png",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\ecefc674ecb8f4efd4ff47a3e49bd3860ee36c45\\output\\res\\drawable-mdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_black_24dp.png",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\drawable-mdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_refresh.png",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\drawable-mdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_refresh.png",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    }
+]

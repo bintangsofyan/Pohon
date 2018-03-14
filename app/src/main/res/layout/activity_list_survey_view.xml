@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context="com.projgaia.ereswe.surveypohon.Stackholder.HomeStackholderActivity">
+
+    <ImageView
+        android:src="@drawable/bg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"/>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/toolbar"
+            android:id="@+id/Notif"
+            android:gravity="center"
+            android:text="POHON BELUM DISURVEY"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:id="@+id/layerlist">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp"
+                >
+
+                <android.support.v4.widget.NestedScrollView
+                    xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.projgaia.ereswe.surveypohon.Model.NonScrollListView
+                        android:id="@+id/listsurvey"
+                        android:layout_width="fill_parent"
+                        android:layout_height="300dp"
+                        android:divider="#b5b5b5">
+                    </com.projgaia.ereswe.surveypohon.Model.NonScrollListView>
+
+                </android.support.v4.widget.NestedScrollView>
+
+            </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

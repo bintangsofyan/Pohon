@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_search_data"
+    xmlns:ls="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.projgaia.ereswe.surveypohon.DataEntry.SearchDataActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/labelProv"
+                android:text="Provinsi"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="12sp" />
+    <Spinner
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/spProvinsi"
+        android:layout_below="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/labelKab"
+                android:text="Kabupaten / Kota"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="12sp" />
+
+    <Spinner
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/spKabupaten"
+        android:layout_below="@+id/spProvinsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/labelKec"
+                android:text="Kecamatan"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="12sp" />
+
+    <Spinner
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/spKecamatan"
+        android:layout_below="@+id/spKabupaten"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/labelDes"
+                android:text="Desa"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="12sp" />
+
+    <Spinner
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/spDesa"
+        android:layout_below="@+id/spKecamatan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/labelGap"
+                android:text="Gabungan Kelompok Petani"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="12sp" />
+
+    <Spinner
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/spGapoktan"
+        android:layout_below="@+id/spDesa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/labelKTH"
+                android:text="KTH"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="12sp" />
+
+    <Spinner
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/spKth"
+        android:layout_below="@+id/spGapoktan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="TAMPILKAN PERSIL"
+        android:background="#549788"
+        android:layout_margin="20dp"
+        android:textColor="@android:color/white"
+        android:id="@+id/btnFilterData"
+        android:onClick="viewPersil"
+        android:layout_below="@+id/spKth"
+        android:layout_alignRight="@+id/spKth"
+        android:layout_alignEnd="@+id/spKth"
+        android:layout_alignLeft="@+id/spKth"
+        android:layout_alignStart="@+id/spKth" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

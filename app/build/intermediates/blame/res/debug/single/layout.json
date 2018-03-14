@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_survey.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_detail_survey.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\db0ecabbb9252129903383d3168b030b2c086280\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tambah_pohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\dialog_tambah_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\cecae805478234166a727cd7d88b26b43a1ec272\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tambah_pohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\dialog_tambah_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_data.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_search_data.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e529dfd0b5505b4767b5e9a696213c45dc9cc73a\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_datapohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\fragment_datapohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_admin_alokasi.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_admin_alokasi.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_survey.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_home_survey.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3985cda73b575910773be296c5d93257cd217de6\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e529dfd0b5505b4767b5e9a696213c45dc9cc73a\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\8f5fc873fc3074ad5ba939b84e60133ed1bd9611\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_row.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\nav_drawer_row.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e529dfd0b5505b4767b5e9a696213c45dc9cc73a\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_row.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\nav_drawer_row.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\db0ecabbb9252129903383d3168b030b2c086280\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\8f5fc873fc3074ad5ba939b84e60133ed1bd9611\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_survey.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_home_survey.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_admin_dataentry.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_admin_dataentry.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\db0ecabbb9252129903383d3168b030b2c086280\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\cecae805478234166a727cd7d88b26b43a1ec272\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_persil.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\include_persil.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\b53084a7a64cc71c249b276b6e55b9ddb9252a7f\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_persil.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_persil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_view.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_persil.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\card_persil.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_datapohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\fragment_datapohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tambah_alokasi.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\dialog_tambah_alokasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e529dfd0b5505b4767b5e9a696213c45dc9cc73a\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_admin_datapohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_admin_datapohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_persil.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_persil.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_stackholder.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_home_stackholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\8f5fc873fc3074ad5ba939b84e60133ed1bd9611\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_survey_view.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_list_survey_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_admin.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_home_admin.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\cecae805478234166a727cd7d88b26b43a1ec272\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tambah_user.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\dialog_tambah_user.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps_pohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_maps_pohon.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_view.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\db0ecabbb9252129903383d3168b030b2c086280\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_data_entry.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_home_data_entry.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alokasipohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\fragment_alokasipohon.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\8f5fc873fc3074ad5ba939b84e60133ed1bd9611\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_admin_dataentry.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_admin_dataentry.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\b53084a7a64cc71c249b276b6e55b9ddb9252a7f\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\b53084a7a64cc71c249b276b6e55b9ddb9252a7f\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alokasipohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\fragment_alokasipohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dataentry_pohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_dataentry_pohon.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_admin_alokasi.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_admin_alokasi.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\include_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps_pohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_maps_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\db0ecabbb9252129903383d3168b030b2c086280\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_admin_datapohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_admin_datapohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\cecae805478234166a727cd7d88b26b43a1ec272\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\cecae805478234166a727cd7d88b26b43a1ec272\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_persil.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\include_persil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sinkron.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_sinkron.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\db0ecabbb9252129903383d3168b030b2c086280\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_pohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_edit_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3985cda73b575910773be296c5d93257cd217de6\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3985cda73b575910773be296c5d93257cd217de6\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display_image.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_display_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\cecae805478234166a727cd7d88b26b43a1ec272\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dataentry.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\fragment_dataentry.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_datasurvey.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_datasurvey.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display_image.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_display_image.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_datasurvey.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_datasurvey.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_data.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_search_data.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_pohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_edit_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3985cda73b575910773be296c5d93257cd217de6\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e529dfd0b5505b4767b5e9a696213c45dc9cc73a\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\8f5fc873fc3074ad5ba939b84e60133ed1bd9611\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pohon.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\include_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dataentry.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\fragment_dataentry.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\b53084a7a64cc71c249b276b6e55b9ddb9252a7f\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e529dfd0b5505b4767b5e9a696213c45dc9cc73a\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sinkron.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_sinkron.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_data_entry.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_home_data_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_admin.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_home_admin.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_persil.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\card_persil.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tambah_alokasi.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\dialog_tambah_alokasi.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dataentry_pohon.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\list_dataentry_pohon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tambah_user.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\dialog_tambah_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_survey.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_detail_survey.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_survey_view.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_list_survey_view.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\8f5fc873fc3074ad5ba939b84e60133ed1bd9611\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\3613375829278c51d46becd9039921f4bbd05461\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\e3f2983dc20b1935c56fb7b5802746d5cac0b2f4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_stackholder.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\layout\\activity_home_stackholder.xml"
+    }
+]

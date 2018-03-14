@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.4_6a51ba145b730cc6ceefe1a2814e3457913daeaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\libs\android-query-full.0.24.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd4b958b6817244d4e6f74ce5f4dbd8001974b77">
+        <dex dex="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.24.3_9f7ccc588e774f988f47d978b0b2df591bb844ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync.1.2_0f1698f57032c4dd5e1ad0d28c92a4ea0fc09bc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ERESWE\.android\build-cache\0577095f8d82a1ba1567660e1bd000a96ecb4593\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e82a07ff2ab5f97022a14d54db370d568e36ef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\build\intermediates\transforms\dex\debug\folders\1000\2\KGJsonConverter_8f122c4c4996a8c31986e1ed7033fc3cbd99f6d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\libs\PhotoUtil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e6b2be10f6247cd3852c8a02f582da8fe1da662">
+        <dex dex="C:\Users\ERESWE\AndroidStudioProjects\Pohon\app\build\intermediates\transforms\dex\debug\folders\1000\2\PhotoUtil_5386f4492e8f0315caba0c0089b62b4edd80d8c2\classes.dex" />
+    </item>
+
+</items>

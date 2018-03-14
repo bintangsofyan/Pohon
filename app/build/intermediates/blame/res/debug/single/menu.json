@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_admin_sync.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu_admin_sync.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_filter.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu_filter.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_back.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sync.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_admin_sync.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu_admin_sync.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_filter.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_back.xml",
+        "source": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu_back.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sync.xml",
+        "source": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\src\\main\\res\\menu\\menu_sync.xml"
+    }
+]

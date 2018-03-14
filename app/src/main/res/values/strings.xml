@@ -1,0 +1,151 @@
+<resources>
+
+    <string name="app_name">Monitoring Pohon</string>
+    <string name="app_listpohon">Pohon</string>
+    <string name="app_listsurvey">List Survey</string>
+    <string name="app_survey">Survei</string>
+    <string name="app_home">Beranda</string>
+    <string name="app_sortir">Sortir Lokasi</string>
+    <string name="app_persil">Persil</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <string-array name="provinsi">
+        <item>-- Provinsi --</item>
+        <item>ACEH</item>
+        <item>SUMATERA UTARA</item>
+        <item>SUMATERA BARAT</item>
+        <item>RIAU</item>
+        <item>JAMBI</item>
+        <item>SUMATERA SELATAN</item>
+        <item>BENGKULU</item>
+        <item>LAMPUNG</item>
+        <item>KEP. BANGKA BELITUNG</item>
+        <item>KEP. RIAU</item>
+        <item>DKI JAKARTA</item>
+        <item>JAWA BARAT</item>
+    </string-array>
+
+    <string-array name="kabupaten">
+        <item>-- Kabupaten --</item>
+        <item>KAB. 1</item>
+        <item>KAB. 2</item>
+        <item>KAB. 3</item>
+        <item>KAB. 4</item>
+        <item>KAB. 5</item>
+        <item>KAB. 6</item>
+    </string-array>
+
+    <string-array name="kecamatan">
+        <item>-- Kecamatan --</item>
+        <item>KEC. 1</item>
+        <item>KEC. 2</item>
+        <item>KEC. 3</item>
+        <item>KEC. 4</item>
+        <item>KEC. 5</item>
+        <item>KEC. 6</item>
+    </string-array>
+
+    <string-array name="desa">
+        <item>-- Desa --</item>
+        <item>DESA. 1</item>
+        <item>DESA. 2</item>
+        <item>DESA. 3</item>
+        <item>DESA. 4</item>
+        <item>DESA. 5</item>
+        <item>DESA. 6</item>
+    </string-array>
+
+
+    <string-array name="hkm">
+        <item>-- KTH --</item>
+        <item>KTH 1</item>
+        <item>KTH 2</item>
+        <item>KTH 3</item>
+    </string-array>
+
+    <string-array name="keltani">
+        <item>-- Gab. Kelompok Tani --</item>
+        <item>GKT 1</item>
+        <item>GKT 2</item>
+        <item>GKT 3</item>
+    </string-array>
+
+    <string-array name="user">
+        <item>- Pilih User -</item>
+
+    </string-array>
+
+    <string-array name="kategori">
+        <item>Pohon Kayu</item>
+        <item>Pohon Buah</item>
+    </string-array>
+
+
+    <string-array name="pohon">
+        <item>Pohon Mangga</item>
+        <item>Pohon Jambu</item>
+        <item>Pohon Kelapa</item>
+        <item>Pohon Jati</item>
+        <item>Pohon Belimbing</item>
+        <item>Pohon Kecapi</item>
+    </string-array>
+
+    <string-array name="level">
+        <item>Admin</item>
+        <item>Surveyor</item>
+        <item>Stackholder</item>
+    </string-array>
+
+    <string-array name="katagori">
+        <item>Pohon Hidup</item>
+        <item>Pohon Sulam</item>
+        <item>Pohon Mati</item>
+    </string-array>
+
+    <string-array name="datasurvey">
+        <item> </item>
+
+    </string-array>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="nav_item_pohon">Data Pohon</string>
+    <string name="nav_item_dataentry">Data Entry</string>
+    <string name="nav_item_alokasipohon">Alokasi Pohon</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_pohon</item>
+        <item>@string/nav_item_dataentry</item>
+        <item>@string/nav_item_alokasipohon</item>
+    </string-array>
+
+    <string name="title_messages">Alokasi Pohon</string>
+    <string name="title_friends">Data Entry</string>
+    <string name="title_home">Data Pohon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_pohon">Map</string>
+</resources>

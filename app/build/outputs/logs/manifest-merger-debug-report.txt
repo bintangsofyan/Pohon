@@ -1,0 +1,856 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/230f9cc27db424a6c4c62c9999729d22/AndroidManifest.xml:2:1-10:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/f5fd2d55541febcca46f2be4491565f6/AndroidManifest.xml:1:70-7:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/fcf9d435d7110044710ae2ad6f4e54f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1fe7cdde241e0bdf299bc4ae5374a725/AndroidManifest.xml:17:1-24:12
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:2:1-23:12
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/9b4c05af886ab6da349db7d6de5ecf55/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-11.0.2.aar/e012efc25965fc3b7ad10dd44099ed65/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.2.aar/1f1cba8c824fe39dcc52782591555612/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/478c679938771eba1ffb4b32af3bef7c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8d5ae121ce20d20d2600ae2ca467122f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/6f3b3108851ec29cfc05656985a14f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/67a91f14b9acf15ab7765d993dee20a3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.2.aar/ec08ea423fd7554e7b3243998f1f0e1d/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.2.aar/81e70be00779e321662d100a18118858/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.2.aar/385cf1df8ee5d62a1f3aabfa6f04859d/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.2.aar/b3b64002c279c3abd3a57553cf65408a/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.2.aar/428fb4168ab20b9e238f3426a46d0002/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.2.aar/d73af1527b20a175f392998003a7666b/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.2.aar/fa093f78af9eedd9e2d0ccef7df2a6d0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.2.aar/f0f9e46572ab78a4a7fdc4ee2f05b6d8/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.2.aar/4c7cb2788980cfc914d57d741836ce99/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.2.aar/f48d6b0df0ef64635945699298f2bf7c/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.2.aar/8d0462d8b404adef6404f5bf2f9a5e97/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.2.aar/2be863061e0533d7586bd103697c89f7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.2.aar/0888c5cd651969d4f381d486f3464d72/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.2.aar/7a84e9fc885f28648bd652bfd792ed33/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.2.aar/900b7e0322c703241a50ce720a407ade/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.2.aar/aca37f1694dbb418622f3147387b3769/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.2.aar/df1d7d7b60c0a1839387453a14268908/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/44d73f9bf2b5121cde5c78c90525fb3e/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.2.aar/0f990b4087a2d1fb4ba80c6b3da45986/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.2.aar/38a02f97a0d5e4305caeb529270830bf/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.2.aar/1332eed45814ec743bfe47a3f8ed52ac/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.2.aar/fb20bb6bd564bcd81f8eb71f7f19c95b/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.2.aar/e3fd00db7e0bac84eefab748931932a4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/0a83125eb0a5ecd37dc80411a1b2e35c/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/80d7b11cad17672b8839e088f8ad566d/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.2.aar/d0b83510a2c04861f639dec93633dd3f/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.2.aar/d44d1bafd921ce3a06af35a35715f3c6/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.2.aar/9c68fe30f0e6ec9d83f0b354d959d355/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.2.aar/d5a7b66f57b25589ec7a8109a8137591/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.2.aar/1dc5d4ff3091fad8f5221d2ee857e120/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.2.aar/4b6e55f75dc57819b7174015c6026ee8/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.2.aar/ade52174c7f7b24c85b9b0c01f202822/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/dfaa6cdf1eee9a6dff7b76014bed1c27/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/3ce598ac4df22d4c2cb96a6176d7ed7c/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/be59193e2521d592297c42efd9f4ab2e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.clans:fab:1.6.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/4e898681b7585e3a3ef07c65a7c911cd/AndroidManifest.xml:2:1-14:12
+MERGED from [me.relex:circleindicator:1.2.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/558ab16c7b143b84f6b91b12cbcc3e45/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/da84c9a815886a8a44b2dc8272fa87ec/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/234eb32dfeda15db774f14a4a3d3978d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/818410a001990361cdd72dc523f4afa3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2631bd44f340839d5c9b456b3777103f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6f1133735550be95a903c67c4c9e4b2e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61d54a792fea1a584a53cfaadd8dc8f6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/83a561e4ac64cfbd9c2d1bd6c328ed89/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/9ba8522daab82396a4c9ed75fb1ba5a2/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+	package
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:1-121:12
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:12:5-81
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.2.aar/38a02f97a0d5e4305caeb529270830bf/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.2.aar/38a02f97a0d5e4305caeb529270830bf/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.2.aar/d44d1bafd921ce3a06af35a35715f3c6/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.2.aar/d44d1bafd921ce3a06af35a35715f3c6/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:14:22-63
+uses-feature#android.hardware.camera
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:18:9-47
+uses-feature#0x00020000
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:20:5-22:35
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:21:5-77
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:21:9-41
+	android:required
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:22:9-32
+application
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:24:5-119:19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/f5fd2d55541febcca46f2be4491565f6/AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/f5fd2d55541febcca46f2be4491565f6/AndroidManifest.xml:5:5-19
+MERGED from [com.android.support:design:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1fe7cdde241e0bdf299bc4ae5374a725/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1fe7cdde241e0bdf299bc4ae5374a725/AndroidManifest.xml:22:5-20
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:15:5-21:19
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:15:5-21:19
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/9b4c05af886ab6da349db7d6de5ecf55/AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/9b4c05af886ab6da349db7d6de5ecf55/AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-11.0.2.aar/e012efc25965fc3b7ad10dd44099ed65/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-11.0.2.aar/e012efc25965fc3b7ad10dd44099ed65/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.2.aar/1f1cba8c824fe39dcc52782591555612/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.2.aar/1f1cba8c824fe39dcc52782591555612/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/478c679938771eba1ffb4b32af3bef7c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/478c679938771eba1ffb4b32af3bef7c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8d5ae121ce20d20d2600ae2ca467122f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8d5ae121ce20d20d2600ae2ca467122f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/67a91f14b9acf15ab7765d993dee20a3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/67a91f14b9acf15ab7765d993dee20a3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.2.aar/385cf1df8ee5d62a1f3aabfa6f04859d/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.2.aar/385cf1df8ee5d62a1f3aabfa6f04859d/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.2.aar/d73af1527b20a175f392998003a7666b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.2.aar/d73af1527b20a175f392998003a7666b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.2.aar/fa093f78af9eedd9e2d0ccef7df2a6d0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.2.aar/fa093f78af9eedd9e2d0ccef7df2a6d0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.2.aar/f0f9e46572ab78a4a7fdc4ee2f05b6d8/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.2.aar/f0f9e46572ab78a4a7fdc4ee2f05b6d8/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.2.aar/4c7cb2788980cfc914d57d741836ce99/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.2.aar/4c7cb2788980cfc914d57d741836ce99/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.2.aar/f48d6b0df0ef64635945699298f2bf7c/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.2.aar/f48d6b0df0ef64635945699298f2bf7c/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.2.aar/8d0462d8b404adef6404f5bf2f9a5e97/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.2.aar/8d0462d8b404adef6404f5bf2f9a5e97/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.2.aar/2be863061e0533d7586bd103697c89f7/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.2.aar/2be863061e0533d7586bd103697c89f7/AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-fitness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.2.aar/0888c5cd651969d4f381d486f3464d72/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.2.aar/0888c5cd651969d4f381d486f3464d72/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.2.aar/7a84e9fc885f28648bd652bfd792ed33/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.2.aar/7a84e9fc885f28648bd652bfd792ed33/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.2.aar/aca37f1694dbb418622f3147387b3769/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.2.aar/aca37f1694dbb418622f3147387b3769/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/44d73f9bf2b5121cde5c78c90525fb3e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/44d73f9bf2b5121cde5c78c90525fb3e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.2.aar/0f990b4087a2d1fb4ba80c6b3da45986/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.2.aar/0f990b4087a2d1fb4ba80c6b3da45986/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.2.aar/38a02f97a0d5e4305caeb529270830bf/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.2.aar/38a02f97a0d5e4305caeb529270830bf/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.2.aar/1332eed45814ec743bfe47a3f8ed52ac/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.2.aar/1332eed45814ec743bfe47a3f8ed52ac/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.2.aar/fb20bb6bd564bcd81f8eb71f7f19c95b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.2.aar/fb20bb6bd564bcd81f8eb71f7f19c95b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.2.aar/e3fd00db7e0bac84eefab748931932a4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.2.aar/e3fd00db7e0bac84eefab748931932a4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/0a83125eb0a5ecd37dc80411a1b2e35c/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/0a83125eb0a5ecd37dc80411a1b2e35c/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/80d7b11cad17672b8839e088f8ad566d/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/80d7b11cad17672b8839e088f8ad566d/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.2.aar/d0b83510a2c04861f639dec93633dd3f/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.2.aar/d0b83510a2c04861f639dec93633dd3f/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.2.aar/d44d1bafd921ce3a06af35a35715f3c6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.2.aar/d44d1bafd921ce3a06af35a35715f3c6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.2.aar/ade52174c7f7b24c85b9b0c01f202822/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.2.aar/ade52174c7f7b24c85b9b0c01f202822/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/dfaa6cdf1eee9a6dff7b76014bed1c27/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/dfaa6cdf1eee9a6dff7b76014bed1c27/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/3ce598ac4df22d4c2cb96a6176d7ed7c/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/3ce598ac4df22d4c2cb96a6176d7ed7c/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/be59193e2521d592297c42efd9f4ab2e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/be59193e2521d592297c42efd9f4ab2e/AndroidManifest.xml:25:5-20
+MERGED from [com.github.clans:fab:1.6.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/4e898681b7585e3a3ef07c65a7c911cd/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/4e898681b7585e3a3ef07c65a7c911cd/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/da84c9a815886a8a44b2dc8272fa87ec/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/da84c9a815886a8a44b2dc8272fa87ec/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/234eb32dfeda15db774f14a4a3d3978d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/234eb32dfeda15db774f14a4a3d3978d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/818410a001990361cdd72dc523f4afa3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/818410a001990361cdd72dc523f4afa3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2631bd44f340839d5c9b456b3777103f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2631bd44f340839d5c9b456b3777103f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6f1133735550be95a903c67c4c9e4b2e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6f1133735550be95a903c67c4c9e4b2e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61d54a792fea1a584a53cfaadd8dc8f6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61d54a792fea1a584a53cfaadd8dc8f6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/83a561e4ac64cfbd9c2d1bd6c328ed89/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/83a561e4ac64cfbd9c2d1bd6c328ed89/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/9ba8522daab82396a4c9ed75fb1ba5a2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/9ba8522daab82396a4c9ed75fb1ba5a2/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:27:9-41
+	android:largeHeap
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:30:9-33
+	android:icon
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:29:9-52
+meta-data#android.app.default_searchable
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:31:9-33:68
+	android:value
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:33:13-65
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:32:13-58
+activity#com.projgaia.ereswe.surveypohon.SplashScreen
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:35:9-51:20
+	android:screenOrientation
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:38:13-49
+	android:noHistory
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:36:13-41
+intent-filter#android.intent.action.MAIN+android.intent.action.SEARCH+android.intent.action.VIEW+android.intent.category.LAUNCHER
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:39:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:42:27-74
+action#android.intent.action.SEARCH
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:44:17-71
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:44:25-68
+action#android.intent.action.VIEW
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:45:25-66
+meta-data#android.app.searchable
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:48:13-50:54
+	android:resource
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:50:17-51
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:49:17-54
+activity#com.projgaia.ereswe.surveypohon.LoginActivity
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:53:9-55:48
+	android:label
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:55:13-45
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:54:13-42
+meta-data#com.google.android.gms.version
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:65:9-67:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/3ce598ac4df22d4c2cb96a6176d7ed7c/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/3ce598ac4df22d4c2cb96a6176d7ed7c/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:67:13-66
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:66:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:68:9-70:55
+	android:value
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:70:13-52
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:69:13-58
+activity#com.projgaia.ereswe.surveypohon.DataEntry.BerandaActivity
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:72:9-74:48
+	android:label
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:73:13-54
+activity#com.projgaia.ereswe.surveypohon.DataEntry.SearchDataActivity
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:77:9-84:20
+	android:parentActivityName
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:80:13-68
+	android:label
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:79:13-47
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:78:13-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:81:9-83:58
+	android:value
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:83:13-55
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:82:13-59
+activity#com.projgaia.ereswe.surveypohon.DataEntry.PersilActivity
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:86:9-93:20
+	android:parentActivityName
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:89:13-71
+	android:label
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:88:13-47
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:87:13-53
+activity#com.projgaia.ereswe.surveypohon.DataEntry.PohonActivity
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:95:9-102:20
+	android:parentActivityName
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:98:13-67
+	android:label
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:97:13-34
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:96:13-52
+activity#com.projgaia.ereswe.surveypohon.DataEntry.DataPohonActivity
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:104:9-106:53
+	android:label
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:106:13-50
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:105:13-56
+activity#com.projgaia.ereswe.surveypohon.DataEntry.SurveiActivity
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:108:9-115:20
+	android:parentActivityName
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:111:13-66
+	android:label
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:110:13-47
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:109:13-53
+activity#com.projgaia.ereswe.surveypohon.DataEntry.SinkronActivity
+ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:117:9-63
+	android:name
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml:117:19-60
+uses-sdk
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/230f9cc27db424a6c4c62c9999729d22/AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/230f9cc27db424a6c4c62c9999729d22/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/f5fd2d55541febcca46f2be4491565f6/AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/f5fd2d55541febcca46f2be4491565f6/AndroidManifest.xml:3:5-72
+MERGED from [com.android.support:multidex:1.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/fcf9d435d7110044710ae2ad6f4e54f8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/fcf9d435d7110044710ae2ad6f4e54f8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1fe7cdde241e0bdf299bc4ae5374a725/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1fe7cdde241e0bdf299bc4ae5374a725/AndroidManifest.xml:20:5-43
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/9b4c05af886ab6da349db7d6de5ecf55/AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/9b4c05af886ab6da349db7d6de5ecf55/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-11.0.2.aar/e012efc25965fc3b7ad10dd44099ed65/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-11.0.2.aar/e012efc25965fc3b7ad10dd44099ed65/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.2.aar/1f1cba8c824fe39dcc52782591555612/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.2.aar/1f1cba8c824fe39dcc52782591555612/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/478c679938771eba1ffb4b32af3bef7c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/478c679938771eba1ffb4b32af3bef7c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8d5ae121ce20d20d2600ae2ca467122f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8d5ae121ce20d20d2600ae2ca467122f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/6f3b3108851ec29cfc05656985a14f5a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/6f3b3108851ec29cfc05656985a14f5a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/67a91f14b9acf15ab7765d993dee20a3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/67a91f14b9acf15ab7765d993dee20a3/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.2.aar/ec08ea423fd7554e7b3243998f1f0e1d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.2.aar/ec08ea423fd7554e7b3243998f1f0e1d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.2.aar/81e70be00779e321662d100a18118858/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.2.aar/81e70be00779e321662d100a18118858/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.2.aar/385cf1df8ee5d62a1f3aabfa6f04859d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.2.aar/385cf1df8ee5d62a1f3aabfa6f04859d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.2.aar/b3b64002c279c3abd3a57553cf65408a/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.2.aar/b3b64002c279c3abd3a57553cf65408a/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.2.aar/428fb4168ab20b9e238f3426a46d0002/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.2.aar/428fb4168ab20b9e238f3426a46d0002/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.2.aar/d73af1527b20a175f392998003a7666b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.2.aar/d73af1527b20a175f392998003a7666b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.2.aar/fa093f78af9eedd9e2d0ccef7df2a6d0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.2.aar/fa093f78af9eedd9e2d0ccef7df2a6d0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.2.aar/f0f9e46572ab78a4a7fdc4ee2f05b6d8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.2.aar/f0f9e46572ab78a4a7fdc4ee2f05b6d8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.2.aar/4c7cb2788980cfc914d57d741836ce99/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.2.aar/4c7cb2788980cfc914d57d741836ce99/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.2.aar/f48d6b0df0ef64635945699298f2bf7c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.2.aar/f48d6b0df0ef64635945699298f2bf7c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.2.aar/8d0462d8b404adef6404f5bf2f9a5e97/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.2.aar/8d0462d8b404adef6404f5bf2f9a5e97/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.2.aar/2be863061e0533d7586bd103697c89f7/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.2.aar/2be863061e0533d7586bd103697c89f7/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-fitness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.2.aar/0888c5cd651969d4f381d486f3464d72/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.2.aar/0888c5cd651969d4f381d486f3464d72/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.2.aar/7a84e9fc885f28648bd652bfd792ed33/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.2.aar/7a84e9fc885f28648bd652bfd792ed33/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.2.aar/900b7e0322c703241a50ce720a407ade/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.2.aar/900b7e0322c703241a50ce720a407ade/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.2.aar/aca37f1694dbb418622f3147387b3769/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.2.aar/aca37f1694dbb418622f3147387b3769/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.2.aar/df1d7d7b60c0a1839387453a14268908/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.2.aar/df1d7d7b60c0a1839387453a14268908/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/44d73f9bf2b5121cde5c78c90525fb3e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/44d73f9bf2b5121cde5c78c90525fb3e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.2.aar/0f990b4087a2d1fb4ba80c6b3da45986/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.2.aar/0f990b4087a2d1fb4ba80c6b3da45986/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.2.aar/a9c6958b0b37100278c4240882f23cd0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.2.aar/38a02f97a0d5e4305caeb529270830bf/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.2.aar/38a02f97a0d5e4305caeb529270830bf/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.2.aar/1332eed45814ec743bfe47a3f8ed52ac/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.2.aar/1332eed45814ec743bfe47a3f8ed52ac/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.2.aar/fb20bb6bd564bcd81f8eb71f7f19c95b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.2.aar/fb20bb6bd564bcd81f8eb71f7f19c95b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.2.aar/e3fd00db7e0bac84eefab748931932a4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.2.aar/e3fd00db7e0bac84eefab748931932a4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/0a83125eb0a5ecd37dc80411a1b2e35c/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/0a83125eb0a5ecd37dc80411a1b2e35c/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/80d7b11cad17672b8839e088f8ad566d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/80d7b11cad17672b8839e088f8ad566d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.2.aar/d0b83510a2c04861f639dec93633dd3f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.2.aar/d0b83510a2c04861f639dec93633dd3f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.2.aar/d44d1bafd921ce3a06af35a35715f3c6/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.2.aar/d44d1bafd921ce3a06af35a35715f3c6/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.2.aar/9c68fe30f0e6ec9d83f0b354d959d355/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.2.aar/9c68fe30f0e6ec9d83f0b354d959d355/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.2.aar/d5a7b66f57b25589ec7a8109a8137591/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.2.aar/d5a7b66f57b25589ec7a8109a8137591/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.2.aar/1dc5d4ff3091fad8f5221d2ee857e120/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.2.aar/1dc5d4ff3091fad8f5221d2ee857e120/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.2.aar/4b6e55f75dc57819b7174015c6026ee8/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.2.aar/4b6e55f75dc57819b7174015c6026ee8/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.2.aar/ade52174c7f7b24c85b9b0c01f202822/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.2.aar/ade52174c7f7b24c85b9b0c01f202822/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/dfaa6cdf1eee9a6dff7b76014bed1c27/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/dfaa6cdf1eee9a6dff7b76014bed1c27/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/3ce598ac4df22d4c2cb96a6176d7ed7c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/3ce598ac4df22d4c2cb96a6176d7ed7c/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/be59193e2521d592297c42efd9f4ab2e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/be59193e2521d592297c42efd9f4ab2e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.github.clans:fab:1.6.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/4e898681b7585e3a3ef07c65a7c911cd/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/4e898681b7585e3a3ef07c65a7c911cd/AndroidManifest.xml:8:5-10:41
+MERGED from [me.relex:circleindicator:1.2.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/558ab16c7b143b84f6b91b12cbcc3e45/AndroidManifest.xml:8:5-10:41
+MERGED from [me.relex:circleindicator:1.2.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/558ab16c7b143b84f6b91b12cbcc3e45/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/da84c9a815886a8a44b2dc8272fa87ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/da84c9a815886a8a44b2dc8272fa87ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/234eb32dfeda15db774f14a4a3d3978d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/234eb32dfeda15db774f14a4a3d3978d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/818410a001990361cdd72dc523f4afa3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/818410a001990361cdd72dc523f4afa3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2631bd44f340839d5c9b456b3777103f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2631bd44f340839d5c9b456b3777103f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6f1133735550be95a903c67c4c9e4b2e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6f1133735550be95a903c67c4c9e4b2e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61d54a792fea1a584a53cfaadd8dc8f6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61d54a792fea1a584a53cfaadd8dc8f6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/83a561e4ac64cfbd9c2d1bd6c328ed89/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/83a561e4ac64cfbd9c2d1bd6c328ed89/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/9ba8522daab82396a4c9ed75fb1ba5a2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/9ba8522daab82396a4c9ed75fb1ba5a2/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8d5ae121ce20d20d2600ae2ca467122f/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:13:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.2.aar/7125d2c0f121bfb60b25fc3621ee94a5/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.2.aar/548f7a750584688c15e5178e1675b548/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:13:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:16:9-20:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [net.gotev:uploadservice:2.1] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/uploadservice-2.1.aar/faccd51818819b1506d60f279f5aa1a9/AndroidManifest.xml:17:13-65
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.2.aar/bac00173ed65a7d692ec636d85cffbb9/AndroidManifest.xml:7:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/91a34a31bcb2f07f688b79c92f1332f5/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/153a4e02821eb13b90782e2c3d442ffe/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.2.aar/2074ab29ef71425ac69ecbfb19fd8d82/AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/4536ea2ae427ff820ff5c771e552e033/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/98b74c2fa5b1c91ac6e38f51d658bb2b/AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/af63570ff5a3afd8a6dc6a435b68ba6b/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/0524f718496b0e8f65182fcadceedf13/AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:27:23-69
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.2.aar/6a8583264da8acf0b91d689248c6ef87/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/e29386c5180ec9783b6d9f7dc0968176/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/161cefc618477568946ffdd329b0a47f/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:24:17-71
+permission#com.projgaia.ereswe.surveypohon.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:26:22-76
+uses-permission#com.projgaia.ereswe.surveypohon.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.projgaia.ereswe.surveypohon
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:33:27-58
+category#com.projgaia.ereswe.surveypohon
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/ed8af19dfc5f091ee0944f2b9686f915/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/bintangsofyan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/a99cfeca22759029523b393e6c1c5cc2/AndroidManifest.xml:6:79-143

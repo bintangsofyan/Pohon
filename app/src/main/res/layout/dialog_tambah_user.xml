@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <EditText
+            android:id="@+id/txt_iduser"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/editbox_background_normal"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:id="@+id/spinnerlevel"
+            android:entries="@array/level"
+            android:layout_below="@+id/textView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_namauser"
+            android:hint="Nama"
+            app:met_baseColor="#000033"
+            app:met_primaryColor="#fc80"
+            app:met_errorColor="#f22a37"
+            app:met_floatingLabel="highlight"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/editbox_background_normal"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_username"
+            android:hint="Username"
+            app:met_baseColor="#000033"
+            app:met_primaryColor="#fc80"
+            app:met_errorColor="#f22a37"
+            app:met_floatingLabel="highlight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/editbox_background_normal"
+            android:layout_below="@+id/txt_namauser"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_password"
+            android:hint="Password"
+            android:inputType="textPassword"
+            app:met_baseColor="#000033"
+            app:met_primaryColor="#fc80"
+            app:met_errorColor="#f22a37"
+            app:met_floatingLabel="highlight"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/editbox_background_normal"
+            android:layout_below="@+id/txt_username"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="Level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/textView"
+            android:layout_marginLeft="11dp"
+            android:layout_marginStart="11dp"
+            android:layout_below="@+id/txt_password"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+
+        <EditText
+            android:id="@+id/txt_idlevel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:background="@android:drawable/editbox_background_normal"
+            android:layout_below="@+id/spinnerlevel"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="28dp" />
+    </RelativeLayout>
+
+</LinearLayout>

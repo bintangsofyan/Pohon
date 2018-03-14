@@ -1,0 +1,4 @@
+#Wed Mar 14 16:17:26 WIB 2018
+base.0=/Users/bintangsofyan/Codes/AndroidStudioProject/Pohon/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

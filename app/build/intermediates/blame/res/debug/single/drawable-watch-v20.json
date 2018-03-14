@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\61f9cb7813698c856a403fe2cc84154316af299e\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\987d7a393f5bbc50ae72a988abeec606c75834af\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\61f9cb7813698c856a403fe2cc84154316af299e\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\987d7a393f5bbc50ae72a988abeec606c75834af\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\61f9cb7813698c856a403fe2cc84154316af299e\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\987d7a393f5bbc50ae72a988abeec606c75834af\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]

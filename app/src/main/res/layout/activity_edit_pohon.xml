@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.projgaia.ereswe.surveypohon.DataEntry.SurveiActivity">
+
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:minHeight="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"/>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
+
+
+        <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="100"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true">
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Date"
+            android:layout_gravity="right"
+            android:id="@+id/set_date"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Kode Pohon:"
+            android:paddingLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/kd_title" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="id_pohon"
+            android:visibility="gone"
+            android:id="@+id/id_pohon"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="id_petani"
+            android:visibility="gone"
+            android:id="@+id/id_petani"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="id_survey"
+                android:visibility="gone"
+                android:id="@+id/id_survey"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="path"
+                android:id="@+id/path"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="status"
+            android:visibility="gone"
+            android:id="@+id/dateDB"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:id="@+id/layerbawah"
+            android:weightSum="1">
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/kd_pohon"
+                android:layout_marginTop="5dp"
+                android:editable="false"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:background="#1029" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Nama Pohon:"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_below="@+id/editdata"
+                android:id="@+id/ph_title" />
+            <EditText
+                android:singleLine="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:id="@+id/nm_pohon"
+                android:editable="false"
+                android:background="#1029"
+                android:layout_below="@+id/ph_title"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:id="@+id/st_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editdata"
+                android:layout_marginTop="15dp"
+                android:paddingLeft="5dp"
+                android:text="Status Pohon:"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            <EditText
+                android:singleLine="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:id="@+id/status_pohon"
+                android:editable="false"
+                android:background="#1029"
+                android:layout_below="@+id/st_title"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Aktifitas:"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_below="@+id/editdata"
+                android:id="@+id/aktifitas_title" />
+            <EditText
+                android:singleLine="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:id="@+id/aktifitas_pohon"
+                android:editable="false"
+                android:background="#1029"
+                android:layout_below="@+id/aktifitas_title"
+                android:layout_marginTop="10dp" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="284dp"
+                android:layout_height="match_parent"
+                android:weightSum="1">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.55">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Kondisi Pohon:"
+                        android:paddingLeft="5dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_below="@+id/nm_pohon"
+                        android:id="@+id/katagori_title" />
+
+
+                    <RadioGroup
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/rG_Katagori">
+
+                        <RadioButton
+                            android:text="Pohon Mati"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/rB_PohonMati" />
+
+                        <RadioButton
+                            android:id="@+id/rB_PohonHidup"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:checked="true"
+                            android:text="Pohon Hidup" />
+                    </RadioGroup>
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:editable="false"
+                android:text=""
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:background="#1029"
+                android:visibility="gone"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/kat_pohon"
+                android:id="@+id/pohon_kat"
+                android:layout_alignRight="@+id/dm_title"
+                android:layout_alignEnd="@+id/dm_title"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Diameter Pohon:"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_below="@+id/keterangan"
+                android:id="@+id/dm_title" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="125dp"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/_pohon"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:hint="Silahkan Klik Tombol Tentukan Koordinat :"
+                        android:layout_weight="1" />
+
+                    <EditText
+                        android:singleLine="true"
+                        android:inputType="number"
+                        android:layout_width="125dp"
+                        android:layout_height="wrap_content"
+                        android:background="@android:drawable/editbox_background_normal"
+                        android:id="@+id/diameter"
+                        android:layout_marginTop="10dp"
+                        android:layout_below="@+id/dm_title" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="138dp"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="(cm):"
+                        android:layout_marginTop="15dp"
+                        android:layout_below="@+id/keterangan"
+                        android:id="@+id/cm_title" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:id="@+id/layeratas"
+                    >
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:layout_marginTop="10dp"
+                    android:background="#5423"
+                    >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/gam"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:hint="Silahkan Tentukan Koordinat :"
+                        />
+                </LinearLayout>
+
+
+                <Button
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Tentukan Koordinat"
+                    android:background="#549788"
+                        android:id="@+id/button"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:onClick="getLokasi" />
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Latitude:"
+
+                        android:layout_marginTop="10dp"
+                        android:id="@+id/lat_title" />
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@android:drawable/editbox_background_normal"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+
+                        android:id="@+id/lat_view"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Longitude:"
+                        android:id="@+id/long_title"
+                        android:paddingTop="20dp" />
+
+                <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@android:drawable/editbox_background_normal"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+
+                        android:id="@+id/long_view"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:id="@+id/layerimage"
+                >
+
+
+
+             <ScrollView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent">
+                 <LinearLayout
+                     android:orientation="vertical"
+                     android:layout_width="match_parent"
+                     android:layout_height="200dp"
+                     android:layout_gravity="center_horizontal"
+                     android:gravity="center_horizontal"
+                     android:layout_marginTop="30dp">
+
+                     <LinearLayout
+                         android:layout_width="match_parent"
+                         android:layout_height="match_parent"
+                         android:orientation="vertical"
+                         android:layout_marginTop="10dp"
+                         android:background="#5423"
+                         >
+
+                         <TextView
+                             android:layout_width="match_parent"
+                             android:layout_height="match_parent"
+                             android:id="@+id/gambar"
+                             android:layout_marginTop="5dp"
+                             android:layout_marginBottom="5dp"
+                             android:layout_marginLeft="5dp"
+                             android:hint="Silahkan Ambil Gambar :"
+                             />
+                     </LinearLayout>
+
+
+                     <Button
+                         android:layout_width="match_parent"
+                         android:layout_height="50dp"
+                         android:id="@+id/btnTakeFoto"
+                         android:background="#549788"
+                         android:layout_marginTop="10dp"
+                         android:onClick="CamBar"
+                         android:layout_below="@+id/ambilfoto"
+                         android:text="Ambil Foto"/>
+
+                     <LinearLayout
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:orientation="horizontal">
+
+                         <ImageView
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:id="@+id/img"
+                             android:layout_marginTop="10dp"
+                             android:layout_marginLeft="10dp"
+
+                             android:onClick="showFullImage"/>
+                         <TextView
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:layout_marginTop="15dp"
+                             android:layout_marginLeft="10dp"
+                             android:textAppearance="?android:attr/textAppearanceSmall"
+                             android:id="@+id/date_img"/>
+                     </LinearLayout>
+
+
+
+
+                     <TextView
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:textAppearance="?android:attr/textAppearanceSmall"
+                         android:text="Keterangan :"
+                         android:paddingLeft="5dp"
+                         android:layout_marginTop="15dp"
+                         android:layout_below="@+id/keterangan"
+                         android:id="@+id/ket_title" />
+                     <EditText
+                         android:singleLine="true"
+                         android:layout_width="match_parent"
+                         android:layout_height="100dp"
+                         android:background="@android:drawable/editbox_background_normal"
+                         android:id="@+id/ket"
+                         android:inputType="text|textMultiLine"
+                         android:layout_marginTop="10dp"
+                         android:layout_below="@+id/dm_title"
+                         android:layout_weight="0.47"
+                         android:textSize="18sp" />
+
+
+                     <Button
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:layout_marginTop="10dp"
+                         android:layout_marginBottom="15dp"
+                         android:background="#549788"
+                         android:text="     Simpan     "
+                         android:id="@+id/butsimpan"
+                         android:onClick="saveLokasi" />
+
+                     <LinearLayout
+                         android:orientation="horizontal"
+                         android:layout_width="304dp"
+                         android:layout_height="match_parent">
+
+                         <LinearLayout
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content">
+
+                             <Button
+                                 android:layout_width="wrap_content"
+                                 android:layout_height="wrap_content"
+                                 android:background="#549788"
+                                 android:layout_marginTop="10dp"
+                                 android:layout_marginLeft="10dp"
+                                 android:text="PERSIL"
+                                 android:visibility="gone"
+                                 android:onClick="persil"
+                                 android:id="@+id/btnPindahPersil"/>
+                         </LinearLayout>
+
+                         <LinearLayout
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content">
+
+                             <Button
+                                 android:layout_width="wrap_content"
+                                 android:layout_height="wrap_content"
+                                 android:background="#549788"
+                                 android:layout_marginLeft="10dp"
+                                 android:layout_marginTop="10dp"
+                                 android:text="SELESAI"
+                                 android:visibility="gone"
+                                 android:onClick="selesai"
+                                 android:id="@+id/btnSelesai"/>
+                         </LinearLayout>
+
+                         <LinearLayout
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:weightSum="1">
+
+                             <Button
+                                 android:layout_width="wrap_content"
+                                 android:layout_height="wrap_content"
+                                 android:background="#549788"
+                                 android:layout_marginLeft="10dp"
+                                 android:layout_marginTop="10dp"
+                                 android:layout_marginBottom="20dp"
+                                 android:text="POHON"
+                                 android:onClick="sortir"
+                                 android:visibility="gone"
+                                 android:id="@+id/btnSortir"
+                                 android:layout_weight="4.50" />
+                         </LinearLayout>
+                     </LinearLayout>
+
+
+                 </LinearLayout>
+
+             </ScrollView>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>
+
+</RelativeLayout>

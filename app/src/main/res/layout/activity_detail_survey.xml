@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"/>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:id="@+id/scrollView1"
+       >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pager"
+            android:layout_width="fill_parent"
+            android:layout_height="330dp"
+            android:layout_alignParentTop="true" />
+        <me.relex.circleindicator.CircleIndicator
+            android:id="@+id/indicator"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="280dp"
+           />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/btnMaps"
+            android:onClick="lihatPeta"
+            android:layout_below="@+id/indicator"
+            android:textSize="18dp"
+            android:text="VIEW MAPS"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/nama_pohon"
+            android:layout_below="@+id/btnMaps"
+            android:text="NAMA POHON :"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/txt_namaPoh"
+            android:layout_below="@+id/nama_pohon"
+            android:text="Pohon"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_below="@id/txt_namaPoh"
+            android:id="@+id/kode_pohon"
+            android:text="KODE POHON"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/txt_kodePoh"
+            android:layout_below="@+id/kode_pohon"
+            android:text="Kode"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_below="@id/txt_kodePoh"
+            android:id="@+id/tgl_survey"
+            android:text="TANGGAL SURVEY"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/txt_tglSurvey"
+            android:layout_below="@+id/tgl_survey"
+            android:text="Tanggal"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_below="@id/txt_tglSurvey"
+            android:id="@+id/diameter"
+            android:text="DIAMETER POHON"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/txt_diameterPoh"
+            android:layout_below="@+id/diameter"
+            android:text="Diameter"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_below="@id/txt_diameterPoh"
+            android:id="@+id/jenis"
+            android:text="JENIS POHON"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/txt_JenisPoh"
+            android:layout_below="@+id/jenis"
+            android:text="Jenis"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_below="@id/txt_JenisPoh"
+            android:id="@+id/katagori"
+            android:text="KATAGORI POHON"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/txt_katagoriPoh"
+            android:layout_below="@+id/katagori"
+            android:text="Katagori"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_below="@id/txt_katagoriPoh"
+            android:id="@+id/keterangan"
+            android:text="KETERANGAN"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/txt_keterangan"
+            android:layout_below="@+id/keterangan"
+            android:text="Keterangan"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/id_surveyact"
+            android:visibility="gone"
+            android:layout_below="@+id/txt_katagoriPoh"
+            android:text="IDSur"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/id_lat"
+            android:visibility="gone"
+            android:layout_below="@+id/txt_katagoriPoh"
+            android:text="Lat"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:id="@+id/id_long"
+            android:visibility="gone"
+            android:layout_below="@+id/txt_katagoriPoh"
+            android:text="Long"/>
+    </RelativeLayout>
+</LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

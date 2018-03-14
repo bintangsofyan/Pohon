@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ERESWE\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ERESWE\\.android\\build-cache\\bc66190bcff4a6b3c54f1bb17a75ad8b40d6e5c1\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\home\\forloop\\AndroidStudioProjects\\Pohon\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\home\\forloop\\.android\\build-cache\\87e0eb7078760a89be8be6bd6270148f8ac7656c\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]
